@@ -1,6 +1,4 @@
-package lk.ijse.dep.service;
-
-import java.io.Serializable;
+package lk.ijse.connect4game.service;
 
 public abstract class Player {
     protected Board board;

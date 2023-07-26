@@ -1,17 +1,16 @@
-package lk.ijse.dep.controller;
+package lk.ijse.connect4game.controller;
 
 import com.jfoenix.controls.JFXButton;
 import com.jfoenix.controls.JFXTextField;
 import javafx.application.Platform;
 import javafx.event.ActionEvent;
-import javafx.event.Event;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
 import javafx.scene.control.Alert;
 import javafx.scene.input.MouseEvent;
 import javafx.scene.shape.CubicCurve;
 import javafx.stage.Stage;
-import lk.ijse.dep.util.DEPAlert;
+import lk.ijse.connect4game.util.DEPAlert;
 
 import java.io.IOException;
 

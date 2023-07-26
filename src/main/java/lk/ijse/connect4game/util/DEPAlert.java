@@ -1,4 +1,4 @@
-package lk.ijse.dep.util;
+package lk.ijse.connect4game.util;
 
 import javafx.scene.control.Alert;
 import javafx.scene.control.ButtonType;

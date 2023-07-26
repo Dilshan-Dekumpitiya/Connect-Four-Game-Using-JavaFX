@@ -8,7 +8,7 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.shape.CubicCurve?>
 
-<AnchorPane onMouseExited="#rootOnMouseExited" onMouseMoved="#rootOnMouseMove" prefHeight="430.0" prefWidth="600.0" styleClass="pane" stylesheets="@../style/Style.css,@../style/CreatePlayer.css," xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.dep.controller.CreatePlayerController">
+<AnchorPane onMouseExited="#rootOnMouseExited" onMouseMoved="#rootOnMouseMove" prefHeight="430.0" prefWidth="600.0" styleClass="pane" stylesheets="@../style/Style.css,@../style/CreatePlayer.css," xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.connect4game.controller.CreatePlayerController">
    <children>
       <CubicCurve fx:id="curve" controlX1="354.8468017578125" controlX2="451.8468017578125" controlY1="-112.0" controlY2="-36.0" endX="647.3131103515625" endY="142.0" fill="DODGERBLUE" layoutX="-60.46630668640137" layoutY="90.0" opacity="0.08" startX="63.81310272216797" startY="70.0" stroke="BLACK" strokeWidth="0.0" AnchorPane.leftAnchor="2.8467960357666016" AnchorPane.rightAnchor="12.653203964233398" />
       <Label layoutX="185.0" layoutY="104.0" styleClass="title" text="Connect 4 Game" />

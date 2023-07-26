@@ -1,4 +1,4 @@
-package lk.ijse.dep;
+package lk.ijse.connect4game;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

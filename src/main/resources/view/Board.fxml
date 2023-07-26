@@ -13,7 +13,7 @@
 <?import javafx.scene.text.Text?>
 <?import javafx.scene.text.TextFlow?>
 
-<AnchorPane fx:id="root" prefHeight="653.0" prefWidth="680.0" styleClass="pane" stylesheets="@../style/Style.css,@../style/Board.css" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.dep.controller.BoardController">
+<AnchorPane fx:id="root" prefHeight="653.0" prefWidth="680.0" styleClass="pane" stylesheets="@../style/Style.css,@../style/Board.css" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.connect4game.controller.BoardController">
    <children>
       <Group fx:id="grpCols" layoutX="32.0" layoutY="118.0" AnchorPane.bottomAnchor="45.0" AnchorPane.leftAnchor="40.0" AnchorPane.rightAnchor="40.0">
          <children>

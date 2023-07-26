@@ -1,4 +1,4 @@
-package lk.ijse.dep.controller;
+package lk.ijse.connect4game.controller;
 
 import com.jfoenix.controls.JFXButton;
 import javafx.animation.KeyFrame;
@@ -14,7 +14,7 @@ import javafx.scene.layout.VBox;
 import javafx.scene.shape.Circle;
 import javafx.scene.shape.Rectangle;
 import javafx.util.Duration;
-import lk.ijse.dep.service.*;
+import lk.ijse.connect4game.service.*;
 
 public class BoardController implements BoardUI {
 

@@ -1,4 +1,4 @@
-package lk.ijse.dep.service;
+package lk.ijse.connect4game.service;
 
 public class AiPlayer extends Player{
     public AiPlayer(Board board){super(board);}

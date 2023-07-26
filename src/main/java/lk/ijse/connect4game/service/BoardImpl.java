@@ -1,4 +1,4 @@
-package lk.ijse.dep.service;
+package lk.ijse.connect4game.service;
 
 public class BoardImpl implements Board{
     private Piece[][] pieces = new Piece[NUM_OF_COLS][NUM_OF_ROWS];

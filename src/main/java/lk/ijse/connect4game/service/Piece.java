@@ -1,4 +1,4 @@
-package lk.ijse.dep.service;
+package lk.ijse.connect4game.service;
 
 public enum Piece {
 

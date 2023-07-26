@@ -1,4 +1,4 @@
-package lk.ijse.dep.service;
+package lk.ijse.connect4game.service;
 
 public interface Board {
     public int NUM_OF_ROWS = 5;
