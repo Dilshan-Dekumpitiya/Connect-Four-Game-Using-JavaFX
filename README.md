@@ -12,6 +12,4 @@ Please refer this document [here](https://drive.google.com/file/d/1qlqLBfI3Xu0p_
 * That's it.
 * Need Java 11.
 
-### License
-<br>
-This project is licensed under the [MIT](LICENSE.txt) License.
+
